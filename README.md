@@ -1,3 +1,0 @@
-#SALVE! 👋
-##MEU NOME É LUCAS,MAIS CONHECIDO COMO "BUTUCA" :wink:
-
