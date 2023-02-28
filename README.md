@@ -3,7 +3,7 @@ Meu nome é Lucas, mais conhecido como "**BUTUCA**" :wink:
 
 Atualmente estudo ADS (Análise e Desenvolvimento de Sistemas) na Fatec Sao Caetano do Sul.
 
-Entusiasta de **PYTHON** com foco em **CIENCIA DE DADOS** e **MACHINE LEARNING**, **COMPUTAÇÃO EM NUVEM (AWS), BANCO DE DADOS (SQL), DASHBOARDS(POWER BI)**... Entre outras tecnologias voltadas para o **PYTHON** juntamente com a **CIENCIA DE DADOS**.
+Entusiasta de **PYTHON** com foco em **CIENCIA DE DADOS** e **MACHINE LEARNING**, **COMPUTAÇÃO EM NUVEM (AWS), BANCO DE DADOS (SQL), DASHBOARDS (POWER BI)**... Entre outras tecnologias voltadas para o **PYTHON** juntamente com a **CIENCIA DE DADOS**.
 
 Bom, agora vou falar um pouco sobre a minha pessoa. Sou apaixonado por Games e Basquete, juntando isso nasce a minha paixao por NBA2K, ali nasceu o amor imediato por videogames, meu hobby favorito quando tenho umas horinhas livres... A tecnologia sempre fez parte da minha vida atraves dos jogos e foi ali onde eu descobri o que queria para minha vida, trabalhar com tecnologia. Amante da programaçao e fascinado com as infinitas possibilidades atraves dela.  
 
