@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="custom.css">
+</head>
+
 ### Salve!!!👋
 Meu nome é Lucas, mais conhecido como "**BUTUCA**" :wink:
 
