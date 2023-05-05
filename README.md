@@ -1,6 +1,6 @@
 <head>
   <link rel="stylesheet" type="text/css" href="custom.css">
-  
+</head>
 ### Salve!!!👋
 Meu nome é Lucas, mais conhecido como "**BUTUCA**" :wink:
 
@@ -28,4 +28,4 @@ Ahh, se quiser pode me adicionar para jogarmos juntos :handshake:
 <a href="https://www.linkedin.com/in/lucas-santana-saturnino-b98228160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
           
-</head>
+
