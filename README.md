@@ -1,4 +1,4 @@
-<link rel="stylesheet" href=".style.css">
+<link rel="stylesheet" href=".css/style.css">
 ### Salve!!!👋
 Meu nome é Lucas, mais conhecido como "**BUTUCA**" :wink:
 
