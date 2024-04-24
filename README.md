@@ -1,7 +1,7 @@
 ### Salve!!!👋
 Meu nome é Lucas, mais conhecido como "**BUTUCA**" :wink:
 
-Atualmente estudo ADS (Análise e Desenvolvimento de Sistemas) na Fatec Sao Caetano do Sul.
+Formado em ADS (Análise e Desenvolvimento de Sistemas) na Fatec Sao Caetano do Sul.
 
 Entusiasta de **PYTHON** com foco em **CIENCIA DE DADOS** e **MACHINE LEARNING**, **COMPUTAÇÃO EM NUVEM (AWS), BANCO DE DADOS (SQL), DASHBOARDS (POWER BI)**... Entre outras tecnologias voltadas para o **PYTHON** juntamente com a **CIENCIA DE DADOS**.
 
